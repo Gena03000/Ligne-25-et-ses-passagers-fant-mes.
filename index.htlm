@@ -1,0 +1,10 @@
+Ligne-25-et-ses-passagers-fant-mes/
+├── index.html ← place-le ici, à la racine du projet
+├── assets/
+│   ├── css/style.css
+│   ├── images/
+│   └── flux/feed.xml
+├── articles/
+│   └── ete-25.html
+├── README.md
+└── .gitignore
