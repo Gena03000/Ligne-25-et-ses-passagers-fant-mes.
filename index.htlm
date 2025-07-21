@@ -1,3 +1,7 @@
+git mv index.htlm index.html
+git commit -m "Corriger nom de fichier index.html"
+git push
+
 Ligne-25-et-ses-passagers-fant-mes/
 ├── index.html ← place-le ici, à la racine du projet
 ├── assets/
